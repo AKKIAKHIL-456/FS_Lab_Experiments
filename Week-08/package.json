@@ -1,0 +1,17 @@
+{
+  "name": "bus-booking-system",
+  "version": "1.0.0",
+  "description": "Mini Bus Booking System using Node.js, Express.js and JSON",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
